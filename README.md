@@ -9,6 +9,8 @@ void pinvrification(int q)
    int attempt=1;
     while(attempt<=3){
           cin>> entrpin;
+
+          
         if(entrpin==q)
         {
             cout<< "succesuful";

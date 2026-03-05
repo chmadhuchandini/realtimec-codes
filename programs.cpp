@@ -4,6 +4,7 @@ using namespace std;
 
 void enterpassword(int p)
 {
+    cout<< "enter your";
     cout << "enter your password";
     int enter;
     cin>> enter;
